@@ -1,0 +1,15 @@
+{
+  "name": "isotronic-fpv-frames",
+  "version": "1.0.0",
+  "private": true,
+  "description": "fpv.isotronic.tr'deki 3D frame çizimlerinin kaynak dosyaları ve üretim betikleri",
+  "type": "module",
+  "engines": { "node": ">=22.18" },
+  "scripts": {
+    "frames:generate": "node scripts/frames-generate.ts",
+    "blueprint:convert": "node scripts/blueprint-convert.mjs node_modules/occt-import-js"
+  },
+  "devDependencies": {
+    "occt-import-js": "0.0.23"
+  }
+}

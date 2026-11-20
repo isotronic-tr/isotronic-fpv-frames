@@ -1,0 +1,11 @@
+Bu depo tek bir lisans altında değildir. Her klasörün lisansı kendi LICENSE dosyasındadır:
+
+- assets/frames/source-one/, assets/frames/source-two/ ve bunlardan üretilen
+  src/components/frame3d/generated/source-one.ts, source-one-7.ts, source-two.ts:
+  GNU General Public License v3.0 (tam metin: assets/frames/source-one/LICENSE).
+- assets/frames/picklewhoop-30/ ve src/components/frame3d/generated/picklewhoop-30.ts:
+  Creative Commons Attribution 4.0 International (CC BY 4.0), yazar @ledroneclub.
+- assets/frames/blueprint-65/ ve src/components/frame3d/generated/blueprint-65.ts:
+  Creative Commons Attribution 4.0 International (CC BY 4.0), yazar @blueprint3D.
+- scripts/frames-generate.ts ve scripts/blueprint-convert.mjs: GNU General Public License v3.0
+  (GPL türevi çıktıları ürettikleri için aynı lisansla yayımlanır).
